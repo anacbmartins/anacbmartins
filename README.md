@@ -23,7 +23,9 @@
 
 ###
 
-<p align="left">🎓 Engenheira de dados e Licenciada em Computação<br>📚 Atualmente estou aprendendo PySpark e Databricks<br>🎯 Transformar dados e transmitir conhecimentos</p>
+<p align="left">🎓 Engenheira de dados e Licenciada em Computação<br>📚 Atualmente estou aprendendo PySpark e Databricks<br>🎯 Transformar dados e transmitir conhecimentos <br>💻 Trabalho atualmente como Administradora de Dados numa Instituição Financeira
+
+</p>
 
 
 <h4 align="left">🛠 Linguagens e ferramentas</h4>
