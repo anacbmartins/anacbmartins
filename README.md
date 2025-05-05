@@ -19,7 +19,7 @@
 
 <br clear="both">
 
-<h1 align="left">🛠 Linguagens e ferramentas</h1>
+<h4 align="left">🛠 Linguagens e ferramentas</h4>
 
 ###
 
