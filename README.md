@@ -4,9 +4,9 @@
 
 <br clear="both">
 
-<!--<div align="center">
-  <img height="150" src="https://drive.google.com/file/d/1-5RaMoV5By63YWnp3UxRXrB_Pp3Afmhv/view?usp=drive_link"  />
-</div> -->
+<div align="center">
+  <img height="150" src="https://drive.google.com/uc?export=view&id=1-5RaMoV5By63YWnp3UxRXrB_Pp3Afmhv"  />
+</div> 
 
 ###
 <!--
