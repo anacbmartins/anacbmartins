@@ -4,8 +4,8 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="150" src="https://drive.google.com/uc?export=view&id=1-5RaMoV5By63YWnp3UxRXrB_Pp3Afmhv"  />
+<div align="center" >
+  <img width="800" height="150"  src="https://drive.google.com/uc?export=view&id=1-5RaMoV5By63YWnp3UxRXrB_Pp3Afmhv"  />
 </div> 
 
 ###
