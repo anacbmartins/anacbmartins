@@ -1,4 +1,5 @@
 <h3 align="center">Olá!👋 Seja bem-vindo(a) ao meu GitHub!</h3>
+<hr>
 
 ###
 
